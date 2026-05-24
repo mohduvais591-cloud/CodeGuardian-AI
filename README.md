@@ -43,5 +43,4 @@ CodeGuardian AI uses a multi-agent architecture:
 - Kubernetes integration
 - Enterprise analytics
   
-## 🏆 Built For Hackathons
 CodeGuardian AI demonstrates how AI agents can transform modern software engineering workflows through intelligent automation.
